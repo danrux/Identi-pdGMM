@@ -1,1 +1,19 @@
-# codes for Identifiability of potentially degenerate Gaussian Mixture Models with piecewise affine mixing
+# codes
+
+## Environment
+Tested on python 3.10.
+
+```
+pip install -r requirements.txt
+```
+
+## Numerical experiment
+```
+python main_numerical.py
+```
+
+## Image-based experiment
+```
+# multi-balls with stationary position
+python ball/main_balls.py
+```
