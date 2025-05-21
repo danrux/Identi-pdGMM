@@ -15,5 +15,5 @@ python main_numerical.py
 ## Image-based experiment
 ```
 # multi-balls with stationary position
-python ball/main_balls.py
+python main_balls.py
 ```
