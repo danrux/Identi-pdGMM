@@ -1,7 +1,7 @@
 # codes
 
 ## Environment
-Tested on python 3.10.
+Tested on 3.9.16.
 
 ```
 pip install -r requirements.txt
