@@ -1,7 +1,7 @@
 # codes
 
 ## Environment
-Tested on 3.9.16.
+Tested on Pyhton 3.9.16.
 
 ```
 pip install -r requirements.txt
